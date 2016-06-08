@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  interred_at: 2016-06-07 19:39:08
+  estimated_rate_of_decay: 1.5
+  buried_value: 1.5
+  plot_id: 
+
+two:
+  name: MyString
+  interred_at: 2016-06-07 19:39:08
+  estimated_rate_of_decay: 1.5
+  buried_value: 1.5
+  plot_id: 
